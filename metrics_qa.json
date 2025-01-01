@@ -1,0 +1,414 @@
+[
+    {
+        "question": "Here are the questions and answers for each metric",
+        "answer": ""
+    },
+    {
+        "question": "1. Metric",
+        "answer": "Equity Capital"
+    },
+    {
+        "question": "Question",
+        "answer": "What is the equity capital of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$42.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$42.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$42.0 (Note: The value remains constant throughout the period)"
+    },
+    {
+        "question": "2. Metric",
+        "answer": "Reserves"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the reserves of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$2492.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$2559.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$4129.0"
+    },
+    {
+        "question": "3. Metric",
+        "answer": "Borrowings"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the borrowings of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$0.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$328.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$30.0"
+    },
+    {
+        "question": "4. Metric",
+        "answer": "Short term Borrowings"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the short-term borrowings of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$0.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$327.68"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$0.0"
+    },
+    {
+        "question": "5. Metric",
+        "answer": "Lease Liabilities"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the lease liabilities of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$0.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$0.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$29.92"
+    },
+    {
+        "question": "6. Metric",
+        "answer": "Other Liabilities"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the other liabilities of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$3784.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$3575.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$4343.0"
+    },
+    {
+        "question": "7. Metric",
+        "answer": "Trade Payables"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the trade payables of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$1987.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$1929.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$2551.0"
+    },
+    {
+        "question": "8. Metric",
+        "answer": "Advance from Customers"
+    },
+    {
+        "question": "Question",
+        "answer": "What is the advance from customers of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$736.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$804.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$0.0"
+    },
+    {
+        "question": "9. Metric",
+        "answer": "Other liability items"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the other liability items of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$1062.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$842.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$1793.0"
+    },
+    {
+        "question": "10. Metric",
+        "answer": "Total Liabilities"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the total liabilities of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$6319.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$6504.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$8545.0"
+    },
+    {
+        "question": "11. Metric",
+        "answer": "Fixed Assets"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the fixed assets of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$1195.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$1234.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$823.0"
+    },
+    {
+        "question": "12. Metric",
+        "answer": "Land"
+    },
+    {
+        "question": "Question",
+        "answer": "What is the land value of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$90.72"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$90.72"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$0.0"
+    },
+    {
+        "question": "13. Metric",
+        "answer": "Building"
+    },
+    {
+        "question": "Question",
+        "answer": "What is the building value of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$356.38"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$356.38"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$0.0"
+    },
+    {
+        "question": "14. Metric",
+        "answer": "Cash Equivalents"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the cash equivalents of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$260.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$87.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$1854.0"
+    },
+    {
+        "question": "15. Metric",
+        "answer": "Loans n Advances"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the loans and advances of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$7.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$18.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$13.0"
+    },
+    {
+        "question": "16. Metric",
+        "answer": "Other asset items"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the other asset items of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$733.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$818.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$1460.0"
+    },
+    {
+        "question": "17. Metric",
+        "answer": "Total Assets"
+    },
+    {
+        "question": "Question",
+        "answer": "What are the total assets of the company as of Dec_11, Dec_12, and Jun_22?"
+    },
+    {
+        "question": "Answer",
+        "answer": ""
+    },
+    {
+        "question": "- Dec_11",
+        "answer": "$6319.0"
+    },
+    {
+        "question": "- Dec_12",
+        "answer": "$6504.0"
+    },
+    {
+        "question": "- Jun_22",
+        "answer": "$8545.0"
+    }
+]
